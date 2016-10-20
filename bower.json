@@ -1,0 +1,10 @@
+{
+  "name": "node_template",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "jquery": "latest",
+    "font-awesome": "latest",
+    "bootstrap-material-design": "latest"
+  }
+}
